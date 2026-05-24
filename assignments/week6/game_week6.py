@@ -208,7 +208,7 @@ def move(room_name):
 # ------------- Game start --------------
 
 print("Aloha! Welcome to Waikiki beach!")
-print("Somewhere here is a golden shell. Find it!")
+print("Somewhere around here is a golden shell. It is your goal to find it!")
 show_help()
 show_room()
 
